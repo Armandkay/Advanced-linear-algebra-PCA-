@@ -29,7 +29,7 @@ This repository contains the implementation of Principal Component Analysis (PCA
 - Submit a GitHub repository link containing the notebook and references.
 
 ## Collaboration Link
-[**Miro Whiteboard for Part 2 Calculations: https://miro.com/welcomeonboard/L1FCeUloZ2VNR3VueEdMVE5oaUxzb2JrVVlDdDRqNEtuVXJ5SEJmd1BqZk9PY0orSFJKa3dIeURqYzRBL2JsNDJOeXQ1dDJLRm1CMk83RWRPQnErY2tmclFKbjFCOWZvTnNaZjlOQ25TUkNvd3o2M2E0VFAwNHRremdTMTlDYTBQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=908476475575**](#)
+##Miro Whiteboard for Part 2 Calculations: https://miro.com/welcomeonboard/L1FCeUloZ2VNR3VueEdMVE5oaUxzb2JrVVlDdDRqNEtuVXJ5SEJmd1BqZk9PY0orSFJKa3dIeURqYzRBL2JsNDJOeXQ1dDJLRm1CMk83RWRPQnErY2tmclFKbjFCOWZvTnNaZjlOQ25TUkNvd3o2M2E0VFAwNHRremdTMTlDYTBQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=908476475575**](#)
 
 ---
 
